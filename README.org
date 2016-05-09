@@ -1,0 +1,6 @@
+* Introduction
+你的 emacs 不可能这么萌(´・ω・`) ------- 颜文字辅助插件
+* Requirements
+: helm
+* Config
+: (require 'emoticon)
